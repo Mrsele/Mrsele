@@ -1,16 +1,16 @@
+# Hello, I'm Solomon Yeshiwas 👋
 
-# Hello, I'm Solomon Yeshiwas  👋
+I'm a software engineer specializing in web development.
 
-I'm a software engineer specializing in web developemnt.
-
-- 🔭 Currently working @ Hagbes plc 
+- 🔭 Currently working @ Hagbes plc
 - 🌱 Learning Flutter and Kotlin
 - 👯 Looking to collaborate on open-source projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsele&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsele&show_icons=true&count_private=true&include_all_commits=true&theme=default)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mrsele&bg_color=ffffff&color=000000&line=blue&point=black&area=true&hide_border=true&custom_title=Contribution%20Graph)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsele&layout=compact)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrsele&theme=default)
 
 
 
