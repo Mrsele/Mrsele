@@ -9,7 +9,7 @@ I'm a software engineer specializing in web development.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsele&show_icons=true&count_private=true&include_all_commits=true&theme=default)
 
 ### Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsele&layout=compact)
+###![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsele&layout=compact)
 
 ### Achievements:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mrsele&theme=onedark)
