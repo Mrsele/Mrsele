@@ -5,7 +5,7 @@ I'm a software engineer specializing in web development.
 - 🔭 Currently working @ Hagbes plc
 - 🌱 Learning Flutter and Kotlin
 - 👯 Looking to collaborate on open-source projects
--  🔭 Old github  [solomonyeshiwas](https://github.com/solomonyeshiwas)
+-  🔭 Old github account  [solomonyeshiwas](https://github.com/solomonyeshiwas)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsele&show_icons=true&count_private=true&include_all_commits=true&theme=default)
