@@ -9,7 +9,7 @@ I'm a software engineer specializing in web developemnt.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsele&show_icons=true)
 
-![Your GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Mrsele&theme=github)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mrsele&theme=github)
 
 
 
