@@ -1,5 +1,5 @@
 
-# Hello, I'm Solomon Yeshiwas Doe 👋
+# Hello, I'm Solomon Yeshiwas  👋
 
 I'm a software engineer specializing in web developemnt.
 
@@ -9,6 +9,7 @@ I'm a software engineer specializing in web developemnt.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsele&show_icons=true)
 
+![Your GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Mrsele&theme=github)
 
 
 
