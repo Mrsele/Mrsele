@@ -2,7 +2,7 @@
 
 I'm a software engineer specializing in web development.
 
-- 🔭 Currently working @ Hagbes plc
+- 🔭 Currently working [hagbesplc](https://github.com/Hagbes-developers)
 - 🌱 Learning Flutter and Kotlin
 - 👯 Looking to collaborate on open-source projects
 -  🔭 Old github account  [solomonyeshiwas](https://github.com/solomonyeshiwas)
