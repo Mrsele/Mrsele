@@ -8,32 +8,19 @@ I'm a software engineer specializing in web development.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsele&show_icons=true&count_private=true&include_all_commits=true&theme=default)
 
+### Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsele&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrsele&theme=default)
+### Achievements:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mrsele&theme=onedark)
 
+### Skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
+### Open Source Contributions:
+- [Contribution to React](https://github.com/facebook/react/pull/...)
+- [Contribution to Node.js](https://github.com/nodejs/node/pull/...)
 
-
-
-
-
-
-
-
-
-
-
-<!--
-**Mrsele/Mrsele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrsele&theme=highcontrast)
