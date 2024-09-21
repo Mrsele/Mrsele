@@ -8,7 +8,6 @@ I'm a software engineer specializing in web development.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsele&show_icons=true&count_private=true&include_all_commits=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsele&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrsele&theme=default)
 
