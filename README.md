@@ -10,7 +10,7 @@ I'm a software engineer specializing in web development.
 <table width="100%" style="border: 1px solid #ccc; border-radius: 5px; margin: 10px 0;">
     <tr>
         <td align="center" style="padding: 10px;">
-            ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsele&show_icons=true&count_private=true&include_all_commits=true&theme=default)
+            <img src="https://github-readme-stats.vercel.app/api?username=Mrsele&show_icons=true&count_private=true&include_all_commits=true&theme=default" />
         </td>
     </tr>
 </table>
@@ -19,7 +19,7 @@ I'm a software engineer specializing in web development.
 <table width="100%" style="border: 1px solid #ccc; border-radius: 5px; margin: 10px 0;">
     <tr>
         <td align="center" style="padding: 10px;">
-            ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mrsele&theme=onedark)
+            <img src="https://github-profile-trophy.vercel.app/?username=Mrsele&theme=onedark" />
         </td>
     </tr>
 </table>
@@ -45,8 +45,9 @@ I'm a software engineer specializing in web development.
 <table width="100%" style="border: 1px solid #ccc; border-radius: 5px; margin: 10px 0;">
     <tr>
         <td align="center" style="padding: 10px;">
-            - [Contribution to React](https://github.com/facebook/react/pull/...)
-            - [Contribution to Node.js](https://github.com/nodejs/node/pull/...)
+            - Contribution to [React](https://github.com/facebook/react/pull/...)
+            <br>
+            - Contribution to [Node.js](https://github.com/nodejs/node/pull/...)
         </td>
     </tr>
 </table>
