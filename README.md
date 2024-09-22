@@ -6,6 +6,8 @@ I'm a software engineer specializing in web development.
 - 🌱 Learning Flutter and Kotlin
 - 👯 Looking to collaborate on open-source projects
 -  🔭 Old github account  [solomonyeshiwas](https://github.com/solomonyeshiwas)
+-   Beased :<kbd>[<img title="Ethiopia" alt="Ethiopia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/et.svg" width="22">](translations/README.et.md)</kbd>
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsele&show_icons=true&count_private=true&include_all_commits=true&theme=default)
