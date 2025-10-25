@@ -21,10 +21,13 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from dateutil import parser
 from tqdm import tqdm
-
+#
 # -------------- CONFIG ----------------
 GITHUB_USER = "Mrsele"     # change to your username
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")  # set in env to increase rate limit
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
+
+
+# GITHUB_TOKEN = os.environ.get("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")  # set in env to increase rate limit
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "..", "assets")
 # --------------------------------------
 

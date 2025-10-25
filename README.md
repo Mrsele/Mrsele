@@ -31,6 +31,22 @@ I'm a software engineer specializing in web development.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
 
 
+### 📊 GitHub Insights & Activity
+
+<p align="center">
+  <img src="assets/contributions_area.png" width="49%">
+  <img src="assets/commits_per_hour_heatmap.png" width="49%">
+</p>
+
+<p align="center">
+  <img src="assets/top_languages_by_bytes.png" width="49%">
+  <img src="assets/top_repos_by_stars_forks.png" width="49%">
+</p>
+
+<p align="center">
+  <img src="assets/top_repos_proxy.png" width="70%">
+</p>
+
 ### Open Source Contributions:
 - [Contribution to React](https://github.com/facebook/react/pull/...)
 - [Contribution to Node.js](https://github.com/nodejs/node/pull/...)
