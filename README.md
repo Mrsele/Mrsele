@@ -31,20 +31,7 @@ I'm a software engineer specializing in web development.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
 
 
-### 📊 GitHub Insights & Activity
 
-<p align="center">
-  <img src="assets/contributions_area.png" width="49%">
-  <img src="assets/commits_per_hour_heatmap.png" width="49%">
-</p>
-
-
-
-### Open Source Contributions:
-- [Contribution to React](https://github.com/facebook/react/pull/...)
-- [Contribution to Node.js](https://github.com/nodejs/node/pull/...)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrsele&theme=highcontrast)
 
 <table width="100" align='center'>
 <tr>
