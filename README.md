@@ -33,15 +33,6 @@ I'm a software engineer specializing in **Python**, **Odoo ERP development**, an
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrsele&show_icons=true&theme=github_dark)
-
----
-
-## 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mrsele&theme=darkhub&no-frame=true&margin-w=15)
 
 ---
 
