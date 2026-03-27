@@ -1,4 +1,4 @@
-# Hello, I'm Solomon Yeshiwas 👋
+# Hola, I'm Solomon 👋
 
 I'm a software engineer specializing in **Python**, **Odoo ERP development**, and modern web technologies.
 
